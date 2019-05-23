@@ -10,3 +10,7 @@ img {
     height: 200px;
     padding: 10px;
 }
+
+.animal {
+    flex-basis: 20%;
+}
